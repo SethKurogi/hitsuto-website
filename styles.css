@@ -373,3 +373,13 @@ footer {
     letter-spacing: .16em;
   }
 }
+
+/* Trademark mark */
+.tm-mark {
+  font-size: 0.42em;
+  line-height: 1;
+  vertical-align: super;
+  margin-left: 0.08em;
+  font-weight: 600;
+  letter-spacing: 0;
+}
